@@ -1,4 +1,3 @@
-DROP DATABASE ShopDB;
 USE ShopDB; 
 DROP PROCEDURE IF EXISTS get_warehouse_product_inventory;
 -- Create your stored procedure here
